@@ -1,56 +1,48 @@
-Voice Activated Computing
-🔹 Project Description 🔹
-Voice Activated Computing is a project designed to enable hands-free computing and control through voice commands.
-Using speech recognition, the application can perform a range of tasks — from opening applications and retrieving information to executing custom routines — all by interpreting the user's voice.
+# 🚀 Voice Activated Computing
 
-🔹 Features 🔹
-Speech recognition and voice command processing
+> A **project designed to enable hands-free computing** through voice commands.
 
-Ability to control and automate routines
+---
 
-File operations and application control through voice
+## 🔹 Features 🔹
 
-User-friendly and adaptable for future expansion
+- 🥣 Speech recognition and voice command processing
+- ⚙ Ability to control and automate routines
+- 📁 File operations and application control
+- 🔉 Text-to-Speech (TTS) for interaction
+- 🔑 Support for multiple languages (future)
 
-🔹 Tech Stack 🔹
-Python — main programming language
 
-Speech recognition libraries (like SpeechRecognition)
+---
 
-Text-to-Speech (TTS) modules
+## 🔹 Tech Stack 🔹
 
-Audio processing modules
+- **Python** — main programming language
+- Speech recognition libraries (like SpeechRecognition)
+- Text-to-Speech modules
+- Audio processing modules
 
-🔹 File List 🔹
-app.py — main application script
 
-command_processor.py — parses and executes voice commands
+---
 
-main.py — entry point for the application
+## 🔹 File List 🔹
 
-voice_assistant.py — handles voice interaction
+- `app.py` — main application script
+- `command_processor.py` — parses and executes voice commands
+- `main.py` — entry point for the application
+- `voice_assistant.py` — handles voice interaction
 
-🔹 Installation 🔹
-Clone the repository:
 
-bash
-Copy
-Edit
+---
+
+## 🔹 Installation 🔹
+
+```bash
 git clone https://github.com/R0han3044/Voice-Activated--Computing.git
-Installing dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
-🔹 How to Use 🔹
-Run the main application:
 
-bash
-Copy
-Edit
+🔹 How to Use 🔹
 python main.py
-Provide a voice command when prompted.
 
 🔹 Future Scope 🔹
 Integrate with smart home devices
@@ -62,3 +54,4 @@ Support for multiple languages
 🔹 Contributors 🔹
 Rohan Marapally — Project lead and developer
 
+✨ Thank you for checking out this project!
